@@ -5,3 +5,4 @@
 모르시면 파일우클릭후 경로 복사해서 사용하세요![image](https://user-images.githubusercontent.com/116787968/236610109-a9fc60bf-f7d9-40e5-947b-c11e0dd6e126.png)
 
 프로젝트 설명 및 사용법은 tistory에 올려 났습니다.
+https://parkit.tistory.com/category/%EB%94%A5%EB%9F%AC%EB%8B%9D 링크를 클릭하세요
